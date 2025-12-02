@@ -1,0 +1,37 @@
+Uso de IA en el Proyecto – Resumen
+
+Integrantes:
+-Enrique Valois Oporto Rojas
+-Miguel Angel Carasas Pizarro
+
+Partes asistidas por IA
+La inteligencia artificial (ChatGPT, Claude y Copilot) fue utilizada como herramienta de apoyo en tareas específicas del desarrollo. Entre las funciones asistidas se incluyen:
+Generación de plantillas iniciales para clases como Event.kt, EventRepository y AuthViewModel.
+Sugerencias de configuraciones, dependencias y versiones en archivos build.gradle.kts y libs.versions.toml.
+Propuestas de validaciones, estructuras con Sealed Classes y ejemplos de manejo de errores utilizando Result.
+Guía conceptual sobre Firebase Authentication, Firestore, uso de coroutines y patrones de arquitectura.
+
+Ayuda en la documentación y aclaración de dudas técnicas durante el desarrollo.
+La IA permitió acelerar la creación de bases y facilitó la comprensión de ciertos conceptos.
+
+Partes programadas por nosotros
+El equipo, conformado por dos integrantes, se encargó del desarrollo principal del proyecto. Las tareas realizadas incluyen:
+Implementación completa del CRUD con Firestore.
+Programación de la lógica de negocio real del proyecto, incluyendo validaciones y reglas específicas.
+Desarrollo final del AuthViewModel integrado con FirebaseAuth.
+Refactor, corrección y adaptación del código inicialmente sugerido por IA.
+Creación de interfaces y navegación en Jetpack Compose.
+Integración de los módulos UI, ViewModels y Repository.
+Configuración y pruebas dentro de Firebase Console.
+Debugging, pruebas en emulador y ajustes finales.
+
+Elaboración de la documentación final adaptada al funcionamiento real del proyecto.
+
+Cómo evitamos depender totalmente de la IA
+Para asegurar un desarrollo responsable y no depender completamente de la IA, se aplicaron las siguientes prácticas:
+Revisión profunda de cada fragmento de código proporcionado por IA antes de integrarlo al proyecto.
+Reescritura manual de partes críticas y adaptación de cada módulo a las necesidades del sistema.
+Consulta de documentación oficial de Firebase y Android para validar decisiones técnicas.
+Implementación propia de reglas de negocio, lógica interna y arquitectura final.
+Pruebas manuales, debugging y validación completa del flujo sin asistencia de IA.
+Discusiones internas entre los integrantes para resolver problemas y tomar decisiones técnicas importantes.

@@ -1,2 +1,33 @@
 CONCEPTOS FUNDAMENTALES - EVENT PLANNER APP
 
+Integrantes:
+-Enrique Valois Oporto Rojas
+-Miguel Angel Carasas Pizarro
+
+1.- Que es MVVM?
+-un patrón de arquitectura de software que divide una aplicación en tres componentes
+para desacoplar la interfaz de usuario (UI) de la lógica de la aplicación.
+
+-MODEL:  Maneja lo que son los datos y la lógica de negocio
+-VIEW: Esta parte es la interfaz de usuario que son las pantallas
+-VIEWMODEL: Actúa como intermediario, exponiendo los datos y comandos de la vista
+a través del enlace de datos.
+
+2.- Que es Firebase Auth?
+-Es el servicio de autenticación de Google que permite a los desarrolladores añadir
+de forma sencilla y segura la gestión de usuarios a sus aplicaciones
+
+3.- Que es FireStore?
+-Es una base de datos de documentos NoSQL que forma parte de la plataforma Firebase
+de Google, diseñada para almacenar, sincronizar y consultar datos de aplicaciones web
+y móviles a escala global
+
+4.- Que es Jetpack Compose?
+-Es un moderno conjunto de herramientas para crear interfaces de usuario nativas
+en Android que simplifica y acelera el desarrollo.
+
+5.- Que es un CRUD?
+
+CRUD es un acrónimo de Create, Read, Update, and Delete (Crear, Leer, Actualizar y Eliminar),
+que representa las cuatro operaciones básicas para manejar datos en una base de datos o
+sistema de almacenamiento.
